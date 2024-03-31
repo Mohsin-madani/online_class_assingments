@@ -1,2 +1,2 @@
-# online_class_number_guessing
+# online_class_Assignments
 this is 3rd online class
